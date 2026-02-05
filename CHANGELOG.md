@@ -1,5 +1,15 @@
 # kilo-code
 
+## 5.4.0
+
+### Minor Changes
+
+- [#4096](https://github.com/Kilo-Org/kilocode/pull/4096) [`4eb0646`](https://github.com/Kilo-Org/kilocode/commit/4eb06462f78ab7446b319e1736fa837e86e3f1df) Thanks [@OlivierBarbier](https://github.com/OlivierBarbier)! - Fix: Importing a configuration file blocks the configuration of provider parameters #2349
+
+### Patch Changes
+
+- [#4021](https://github.com/Kilo-Org/kilocode/pull/4021) [`b8a6c4e`](https://github.com/Kilo-Org/kilocode/commit/b8a6c4e6b4eab9397efbbaa04202f92816e5afd4) Thanks [@In-line](https://github.com/In-line)! - Add React Compiler integration to improve UI responsiveness
+
 ## 5.3.0
 
 ### Minor Changes
